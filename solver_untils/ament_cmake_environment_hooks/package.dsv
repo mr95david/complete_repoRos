@@ -1,0 +1,4 @@
+source;share/solver_untils/local_setup.bash
+source;share/solver_untils/local_setup.dsv
+source;share/solver_untils/local_setup.sh
+source;share/solver_untils/local_setup.zsh

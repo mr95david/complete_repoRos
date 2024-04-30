@@ -1,0 +1,4 @@
+source;share/diseno_ntarobot/local_setup.bash
+source;share/diseno_ntarobot/local_setup.dsv
+source;share/diseno_ntarobot/local_setup.sh
+source;share/diseno_ntarobot/local_setup.zsh

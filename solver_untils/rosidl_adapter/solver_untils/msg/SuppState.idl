@@ -1,0 +1,22 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from solver_untils/msg/SuppState.msg
+// generated code does not contain a copyright notice
+
+
+module solver_untils {
+  module msg {
+    @verbatim (language="comment", text=
+      "Interfaz para publicar el estado de alimentacion de los motores #" "\n"
+      "Considera 3 valores flotantes, correspondientes a los valores de #" "\n"
+      "alimentacion del driver del robot #")
+    struct SuppState {
+      string data;
+
+      float voltage;
+
+      float currentmr;
+
+      float currentml;
+    };
+  };
+};

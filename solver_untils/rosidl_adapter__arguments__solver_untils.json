@@ -1,0 +1,10 @@
+{
+  "package_name": "solver_untils",
+  "non_idl_tuples": [
+    "/home/nta2024/ws_ros/src/solver_untils:msg/SuppState.msg",
+    "/home/nta2024/ws_ros/src/solver_untils:msg/SoftParm.msg",
+    "/home/nta2024/ws_ros/src/solver_untils:msg/ParmRob.msg",
+    "/home/nta2024/ws_ros/src/solver_untils:msg/MotorOrder.msg",
+    "/home/nta2024/ws_ros/src/solver_untils:msg/RobotGeneralP.msg"
+  ]
+}

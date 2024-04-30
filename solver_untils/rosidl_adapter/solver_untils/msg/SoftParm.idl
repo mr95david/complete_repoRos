@@ -1,0 +1,19 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from solver_untils/msg/SoftParm.msg
+// generated code does not contain a copyright notice
+
+
+module solver_untils {
+  module msg {
+    @verbatim (language="comment", text=
+      "Interfaz que visualiza los valores y configuraciones actuales del software #" "\n"
+      "del drive, en el momento en que se esta utilizando. #")
+    struct SoftParm {
+      int16 version;
+
+      int16 mode;
+
+      int16 acceleration;
+    };
+  };
+};

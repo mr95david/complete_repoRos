@@ -1,0 +1,4 @@
+source;share/solver_untils/environment/ament_prefix_path.sh
+source;share/solver_untils/environment/library_path.sh
+source;share/solver_untils/environment/path.sh
+source;share/solver_untils/environment/pythonpath.sh

@@ -1,0 +1,9 @@
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/uninstall.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/diseno_ntarobot_uninstall.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/test.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/edit_cache.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/rebuild_cache.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/list_install_components.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/install.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/install/local.dir
+/home/nta2024/ws_ros/build/diseno_ntarobot/CMakeFiles/install/strip.dir

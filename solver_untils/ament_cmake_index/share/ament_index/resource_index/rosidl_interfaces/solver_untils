@@ -1,0 +1,10 @@
+msg/MotorOrder.idl
+msg/MotorOrder.msg
+msg/ParmRob.idl
+msg/ParmRob.msg
+msg/RobotGeneralP.idl
+msg/RobotGeneralP.msg
+msg/SoftParm.idl
+msg/SoftParm.msg
+msg/SuppState.idl
+msg/SuppState.msg

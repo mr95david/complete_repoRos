@@ -1,0 +1,20 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from solver_untils/msg/ParmRob.msg
+// generated code does not contain a copyright notice
+
+
+module solver_untils {
+  module msg {
+    @verbatim (language="comment", text=
+      "Interfaz para publicar los parametros de velocidad y encoders obtenidos por el robot #")
+    struct ParmRob {
+      int16 speed_mr;
+
+      int16 speed_ml;
+
+      int64 encoder_mr;
+
+      int64 encoder_ml;
+    };
+  };
+};

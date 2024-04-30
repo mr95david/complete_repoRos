@@ -1,0 +1,16 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from solver_untils/msg/MotorOrder.msg
+// generated code does not contain a copyright notice
+
+
+module solver_untils {
+  module msg {
+    @verbatim (language="comment", text=
+      "Mensaje para enviar un valor entero como orden de velocidad a los motores.")
+    struct MotorOrder {
+      int16 m_value_1;
+
+      int16 m_value_2;
+    };
+  };
+};

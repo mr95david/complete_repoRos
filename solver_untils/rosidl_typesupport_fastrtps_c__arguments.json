@@ -1,0 +1,27 @@
+{
+  "package_name": "solver_untils",
+  "output_dir": "/home/nta2024/ws_ros/build/solver_untils/rosidl_typesupport_fastrtps_c/solver_untils",
+  "template_dir": "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource",
+  "idl_tuples": [
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SuppState.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SoftParm.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/ParmRob.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/MotorOrder.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/RobotGeneralP.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/lib/rosidl_typesupport_fastrtps_c/rosidl_typesupport_fastrtps_c",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_typesupport_fastrtps_c/__init__.py",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/idl__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/msg__type_support_c.cpp.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__rosidl_typesupport_fastrtps_c.h.em",
+    "/opt/ros/humble/share/rosidl_typesupport_fastrtps_c/resource/srv__type_support_c.cpp.em",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/SuppState.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/SoftParm.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/ParmRob.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/MotorOrder.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/RobotGeneralP.idl"
+  ]
+}

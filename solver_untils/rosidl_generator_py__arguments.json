@@ -1,0 +1,32 @@
+{
+  "package_name": "solver_untils",
+  "output_dir": "/home/nta2024/ws_ros/build/solver_untils/rosidl_generator_py/solver_untils",
+  "template_dir": "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource",
+  "idl_tuples": [
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SuppState.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SoftParm.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/ParmRob.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/MotorOrder.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/RobotGeneralP.idl"
+  ],
+  "target_dependencies": [
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../../../lib/rosidl_generator_py/rosidl_generator_py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/__init__.py",
+    "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_py/generate_py_impl.py",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_action.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_idl.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg_support.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_msg.py.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv_pkg_typesupport_entry_point.c.em",
+    "/opt/ros/humble/share/rosidl_generator_py/cmake/../resource/_srv.py.em",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/SuppState.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/SoftParm.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/ParmRob.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/MotorOrder.idl",
+    "/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils/msg/RobotGeneralP.idl"
+  ]
+}

@@ -1,0 +1,5 @@
+/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SuppState.idl
+/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/SoftParm.idl
+/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/ParmRob.idl
+/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/MotorOrder.idl
+/home/nta2024/ws_ros/build/solver_untils/rosidl_adapter/solver_untils:msg/RobotGeneralP.idl
